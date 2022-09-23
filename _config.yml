@@ -23,6 +23,13 @@ linkedin_username: xxxx
 about_profile_image: images/Xu_An.jpg
 about_content: 
   Hi, my name's Xu An and I'm a second-year master student at xxx University. My research interest is xxx, xxx, xxx and xxx.
+  
+  ### Education
+  ---
+  #### XXX University
+  ECE BEng, xxxx-xxxx
+  ##### Relative courses
+  ECE XXXX, ECE XXXX, ECE XXXXX, ECE XXXXX
 
 content:
           
