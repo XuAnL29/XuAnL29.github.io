@@ -28,19 +28,25 @@ content:
   - title: Education
     layout: list
     content:
-      - title: Bristol University
+      - layout: left
+        border: weak
+        title: Bristol University
         sub_title: BSc Computer Science
         caption: 2010 - 2013
         description: |
         Relevant course including ECE XXX, ECE XXX, ECE XXX
       
-      - title: Bristol University
+      - layout: left
+        border: weak
+        title: Bristol University
         sub_title: BSc Computer Science
         caption: 2010 - 2013
         description: |
         Relevant course including ECE XXX, ECE XXX, ECE XXX
       
-      - title: Bristol University
+      - layout: left
+        border: weak
+        title: Bristol University
         sub_title: BSc Computer Science
         caption: 2010 - 2013
         description: |
