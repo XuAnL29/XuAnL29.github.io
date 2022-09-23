@@ -22,16 +22,29 @@ linkedin_username: xxxx
 about_title: Education
 about_profile_image: images/Xu_An.jpg
 about_content: |
-  ### XXX University
-  ECE xxx, xxx-xxx
-  
-  ### XXX University
-  ECE xxx, xxx-xxx
-  
-  ### XXX University
-  ECE xxx, xxx-xxx
+  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 content:
+  - title: Education
+    layout: list
+    content:
+      - title: Bristol University
+        sub_title: BSc Computer Science
+        caption: 2010 - 2013
+        description: |
+        Relevant course including ECE XXX, ECE XXX, ECE XXX
+      
+      - title: Bristol University
+        sub_title: BSc Computer Science
+        caption: 2010 - 2013
+        description: |
+        Relevant course including ECE XXX, ECE XXX, ECE XXX
+      
+      - title: Bristol University
+        sub_title: BSc Computer Science
+        caption: 2010 - 2013
+        description: |
+        Relevant course including ECE XXX, ECE XXX, ECE XXX
           
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
