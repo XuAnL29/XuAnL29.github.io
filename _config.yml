@@ -34,7 +34,8 @@ content:
         sub_title: BSc Computer Science
         caption: 2010 - 2013
         description: |
-          Relevant course: ECE XXX, ECE XXX, ECE XXX
+          Relevant course: 
+                                ECE XXX, ECE XXX, ECE XXX
       
       - layout: left
         border: weak
@@ -42,10 +43,13 @@ content:
         sub_title: BSc Computer Science
         caption: 2010 - 2013
         description: |
-          Relevant course: ECE XXX, ECE XXX, ECE XXX
+          Relevant course: 
+                                ECE XXX, ECE XXX, ECE XXX
+          Honors & Awards:
+                                XXXXXX, 2018
+                                XXXXXX, 2020
       
       - layout: left
-        border: weak
         title: Bristol University
         sub_title: BSc Computer Science
         caption: 2010 - 2013
@@ -87,7 +91,6 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
      
       - layout: left
-        border: weak
         title: The Boring Company
         link: boringcompany.com
         # link_text: boringcompany.com
