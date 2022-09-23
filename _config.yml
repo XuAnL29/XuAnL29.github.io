@@ -24,15 +24,15 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Xu An and I'm a second-year master student at xxx University. My research interest is xxx, xxx, xxx and xxx.
   
-   - title: Education test # Title for the section
-    layout: list # Type of content section (list/text)
+    # Education test
     content:
-      - layout: left
-        title: xxx University
-        caption: 2016 - 2020
-        sub_title: MS ECE
-        description: | # this will include new lines to allow paragraphs
-         | ### Relevant Course: 
+    - layout: left
+      title: xxx University
+      subtitle: MS ECE
+      caption: 2016 - 2020
+      description:  
+        description: 
+         ### Relevant Course: 
 
           ECE xxx: xxxxxxxxxxxxxxxxx
 
@@ -44,7 +44,7 @@ about_content: | # this will include new lines to allow paragraphs
 
           ECE xxx: xxxxxxxxxxxxxxxxx
 
-         | ### Honor & Award:
+         ### Honor & Award:
 
           xxxx, 2020
 
