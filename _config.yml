@@ -22,14 +22,15 @@ linkedin_username: xxxx
 about_title: Education
 about_profile_image: images/Xu_An.jpg
 about_content: | #
-  #### **XXX University**
-  ECE MS, xxxx-xxxx \t \t Relative courses: ECE XXXX, ECE XXXX, ECE XXXXX, ECE XXXXX
+  ##### **XXX University**
+  ECE MS, xxxx-xxxx                           Relative courses: ECE XXXX, ECE XXXX, ECE XXXXX, ECE XXXXX
 
-  #### **XXX University**
-  ECE BEng, xxxx-xxxx
-  Relative courses: ECE XXXX, ECE XXXX, ECE XXXXX, ECE XXXXX
+
+  ##### **XXX University**
+  ECE BEng, xxxx-xxxx                         Relative courses: ECE XXXX, ECE XXXX, ECE XXXXX, ECE XXXXX
   
-  #### **XXX University**
+  
+  ##### **XXX University** 
   ECE BEng, xxxx-xxxx
 
 content:
