@@ -43,18 +43,20 @@ content:
         sub_title: BSc Computer Science
         caption: 2010 - 2013
         description: |
-          Relevant course: 
-                                ECE XXX, ECE XXX, ECE XXX
-          Honors & Awards:
-                                XXXXXX, 2018
-                                XXXXXX, 2020
+          Relevant course:<br>
+          &emsp&emsp&emsp&emsp&emspECE XXX, ECE XXX, ECE XXX<br>
+                                
+          Honors & Awards:<br>  
+          &emsp&emsp&emsp&emsp&emspXXXXXX, 2018<br>
+          &emsp&emsp&emsp&emsp&emspXXXXXX, 2020
       
       - layout: left
         title: Bristol University
         sub_title: BSc Computer Science
         caption: 2010 - 2013
         description: |
-          Relevant course: ECE XXX, ECE XXX, ECE XXX
+          Relevant course:<br>
+          &emsp&emsp&emsp&emsp&emspECE XXX, ECE XXX, ECE XXX
           
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
