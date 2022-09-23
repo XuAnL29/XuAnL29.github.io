@@ -21,15 +21,17 @@ linkedin_username: xxxx
 # About Section
 about_title: Education
 about_profile_image: images/Xu_An.jpg
-about_content: | #
-  #### XXX University
-  ECE MS, xxxx-xxxx &emsp;&emsp;&emsp;&emsp;&emsp;  Relative courses: ECE XXXX, ECE XXXX, ECE XXXXX, ECE XXXXX
-  &nbsp;
-  ##### XXX University
-  ECE BEng, xxxx-xxxx &emsp;&emsp;&emsp;&emsp;      Relative courses: ECE XXXX, ECE XXXX, ECE XXXXX, ECE XXXXX
-  &nbsp;  
-  ##### XXX University 
-  ECE BEng, xxxx-xxxx
+about_content: 
+  - layout: left
+          border: weak
+          title: NatWest
+          sub_title: Frontend Software Engineer
+          caption: August 2017 - July 2021
+          description: |
+            Working at NatWest as a front end engineer focusing mostly on a corporate banking product called Bankline.
+            Working as part of a scrum team consiting of 5 developers, 2 testers and a PO/BA I have the oportunity to help drive the team forwards and
+            work with the PO defining what we are building.
+
 
 content:
           
