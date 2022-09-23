@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: An Xu
-title: Second-year Master Studend at xxx University
+title: Research Interest: xxx, xxx, xxx, xxx, and xxx
 email: xxxx@gmail.com
 website: https://xuanl29.github.io/
 
@@ -19,16 +19,19 @@ github_username:  XuAnL29
 linkedin_username: xxxx
 
 # About Section
-# about_title: About Me
+about_title: Education
 about_profile_image: images/Xu_An.jpg
 about_content: | #
-  Hi, my name's Xu An and I'm a second-year master student at xxx University. My research interest is xxx, xxx, xxx and xxx.
-  
-  ### Education
-  #### XXX University
+  #### **XXX University**
+  ECE MS, xxxx-xxxx
+  Relative courses: ECE XXXX, ECE XXXX, ECE XXXXX, ECE XXXXX
+
+  #### **XXX University**
   ECE BEng, xxxx-xxxx
-  ##### Relative courses
-  ECE XXXX, ECE XXXX, ECE XXXXX, ECE XXXXX
+  Relative courses: ECE XXXX, ECE XXXX, ECE XXXXX, ECE XXXXX
+  
+  #### **XXX University**
+  ECE BEng, xxxx-xxxx
 
 content:
           
